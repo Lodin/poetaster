@@ -1,0 +1,10 @@
+import '../bower_components/polymer/polymer-micro.html';
+import '../bower_components/iron-icons/iron-icons.html';
+import '../bower_components/app-layout/app-drawer/app-drawer.html';
+import '../bower_components/app-layout/app-header/app-header.html';
+import '../bower_components/app-layout/app-toolbar/app-toolbar.html';
+import '../bower_components/paper-button/paper-button.html';
+import '../bower_components/paper-icon-button/paper-icon-button.html';
+import '../bower_components/paper-menu/paper-menu.html';
+import '../bower_components/paper-item/paper-item.html';
+import '../bower_components/paper-toolbar/paper-toolbar.html';

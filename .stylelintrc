@@ -1,0 +1,9 @@
+{
+  "extends": "stylelint-config-standard",
+  "rules": {
+    "color-named": "never",
+    "custom-property-empty-line-before": null,
+    "font-family-name-quotes": "always-unless-keyword",
+    "selector-type-no-unknown": null
+  }
+}
